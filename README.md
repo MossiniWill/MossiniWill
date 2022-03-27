@@ -1,10 +1,15 @@
 ## Olá! Eu sou o Will Mossini
-- Atualmente eu trabalho na  área Administrativa/Financeira  e  sou  especialista  em rotinas  administrativas,  contábeis  e  orçamentárias, desenvolvendo  um  papel  de analista  financeiro  na  área  pública.
-- Tenho as seguintes skills:
+  
+  Atualmente eu trabalho na  área Administrativa/Financeira  e  sou  especialista  em rotinas  administrativas,  contábeis  e  orçamentárias, desenvolvendo  um  papel  de analista  financeiro  na  área  pública. 
+ 
+  Tenho as seguintes skills:
+
 - 🎓 Graduação em Ciências  Contábeis (Completo);
 - 🎓 Tecnólogo em Gestão Pública (Completo);
 - 📚 Tecnólogo em Gestão Pública (Cursando)
 - 🌱 Estudando HTML - CSS - JS
+
+
 <div align="center">
   <a href="https://github.com/MossiniWill">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MossiniWill&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
