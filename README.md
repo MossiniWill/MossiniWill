@@ -6,7 +6,7 @@
 
 - 🎓 Graduação em Ciências  Contábeis (Completo);
 - 🎓 Tecnólogo em Gestão Pública (Completo);
-- 📚 Tecnólogo em Gestão Pública (Cursando)
+- 📚 Tecnólogo em Analise e Desenvolvimento de Sistemas (Cursando)
 - 🌱 Estudando HTML - CSS - JS - JAVA
 
 
