@@ -7,7 +7,7 @@
 - 🎓 Graduação em Ciências  Contábeis (Completo);
 - 🎓 Tecnólogo em Gestão Pública (Completo);
 - 📚 Tecnólogo em Gestão Pública (Cursando)
-- 🌱 Estudando HTML - CSS - JS
+- 🌱 Estudando HTML - CSS - JS - JAVA
 
 
 <div align="center">
